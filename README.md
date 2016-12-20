@@ -1,4 +1,4 @@
-# Small book about linux
+# Small essay about linux
 
 My short essay about Linux, written for one of the lessons of [DUT](http://www.dut.edu.ua/).
 
